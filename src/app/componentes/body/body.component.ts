@@ -5,6 +5,9 @@ import { Component } from '@angular/core';
   templateUrl: './body.component.html',
   styleUrls: ['./body.component.css']
 })
-export class BodyComponent {
+export class BodyComponent{
+  mostrar!: string
+
+
 
 }

@@ -5,9 +5,7 @@ import { BodyComponent } from './body/body.component';
 
 
 @NgModule({
-  declarations: [
-    BodyComponent
-  ],
+  declarations: [],
   imports: [
     CommonModule
   ]
